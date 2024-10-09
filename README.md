@@ -11,7 +11,7 @@ Hi! My name is Carla and I like creating things that live on the world wide web.
 * ✉️  You can contact me at [valdivia.carla@gmail.com](mailto:valdivia.carla@gmail.com)
 * 🚀  I'm currently working on [https://github.com/cvaldivia83/rails-petz-api](http://petz)
 * 🧠  I'm learning React, Next.js
-* 🤝  I'm open to collaborating on interesting projects where I can actively contribute and keep learning new things all the time.
+* 🤝  I'm open to collaborating on interesting projects where I can actively contribute and keep learning new things all the time. I want to be working on things that matter with people smarter than me.
 * 😄 Pronouns: she/her
 
 ### Skills
