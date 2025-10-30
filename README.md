@@ -1,18 +1,39 @@
-Hi 👋 My name is Carla Valdivia
+👋 Hi there, I'm Carla Valdivia
 ===============================
 
-Fullstack Developer
--------------------
+I’m a Full Stack Developer with a focus on frontend development using React, TypeScript, and Next.js, and experience building RESTful APIs and secure backends with Ruby on Rails.
 
-Hi! My name is Carla and I like creating things that live on the world wide web. My interest in web development started in 2016 when I began an internship in digital marketing that required hands-on skills to manage a WordPress website. It turns out that editing, creating, and delivering a website taught me a lot about HTML, CSS, and PHP. It also gave me the confidence to realize that coding was something that I was good at. After completing Le Wagon's Fullstack Web Development Bootcamp I was invited to join the staff as a Web Development Lead Teacher. I have since taken on projects and roles that allowed me to leverage both my technical skills and my background in digital marketing.
+My journey into web development started in digital marketing, where I learned to combine user-centered thinking with technical execution. Since then, I’ve been building applications that are clean, responsive, and focused on great user experiences.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* 🖥️  See my portfolio at [https://cvaldivia83.github.io/portfolio/](http://cvaldivia83.github.io/portfolio)
-* ✉️  You can contact me at [valdivia.carla@gmail.com](mailto:valdivia.carla@gmail.com)
-* 🚀  I'm currently working on [https://github.com/cvaldivia83/rails-petz-api](http://petz)
-* 🧠  I'm learning React, Next.js
-* 🤝  I'm open to collaborating on interesting projects where I can actively contribute and keep learning new things all the time. I want to be working on things that matter with people smarter than me.
-* 😄 Pronouns: she/her
+After graduating from Le Wagon’s Full-Stack Web Development Bootcamp, I joined the team as a Web Development Lead Teacher, mentoring 25+ cohorts and guiding students through real-world full-stack projects.
+
+💡 What I’m working on
+
+🚀 Building a social media app for pets (Petz) with React, Vite, and Rails (JWT + Devise)
+
+🧩 Exploring Next.js, Typescript and modern front-end architectures
+
+🔧 Strengthening testing practices with Vitest, RTL, Jest, and RSpec
+
+🧠 What I’m good at
+
+- Frontend: React, TypeScript, Next.js, TailwindCSS, Vite
+
+- Backend: Ruby on Rails, RESTful APIs, PostgreSQL
+
+- Tools & Platforms: Git, GitHub, Heroku, Render, Vercel
+
+- Practices: Clean Code, Agile, TDD, CI/CD
+
+🌍 Where to find me
+
+- 🖥️ Portfolio: [carla-valdivia.pro](https://cvaldivia83.github.io/portfolio/)
+
+💌 Email: valdivia.carla@gmail.com
+
+💼 LinkedIn: linkedin.com/in/carla-cabrera-valdivia
+
+😄 Pronouns: she/her
 
 ### Skills
 
